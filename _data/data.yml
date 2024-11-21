@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jiye Park
+    tagline: Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: jypark6659@gmail.com
+    phone: 010 6660 5259
+    timezone: Korea/Busan # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: # jiyepark
+    xing: # jiyepark
+    github: # jypark6659
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: # '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,22 +36,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: little bit
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Japanese
+          level: only hello
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Game
           link:
 
-        - item: Snowboarding
+        - item: biking
           link:
 
         - item: Cooking
